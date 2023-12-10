@@ -1,0 +1,26 @@
+site_name: Student Management System
+theme: material
+repo_url: https://github.com/UAlberta-CMPUT401/student-mgmt
+nav:
+    - Product Documentation: 'index.md'
+    - 'design-doc.md'
+    - 'project-management.md'
+    - 'teamwork-doc.md'
+    - Deployment Instructions: 'deploy.md'
+    - User Manual: 'user-manual.md'
+    - Job Description: 'job-description.md'
+    - Data Migration: 'data-migration.md'
+    - 'Meeting Minutes':
+        - 'Jan 18': 'minutes/0118.md'
+        - 'Jan 25': 'minutes/0125.md'
+        - 'Jan 30': 'minutes/0130.md'
+        - 'Feb 06': 'minutes/0206.md'
+        - 'Feb 13': 'minutes/0213.md'
+        - 'Feb 15': 'minutes/0215.md'
+        - 'Feb 27': 'minutes/0227.md'
+        - 'Mar 06': 'minutes/0306.md'
+        - 'Mar 13': 'minutes/0313.md'
+        - 'Mar 20': 'minutes/0320.md'
+        - 'Mar 27': 'minutes/0327.md'
+        - 'Mar 31': 'minutes/0331.md'
+        - 'Apr 03': 'minutes/0403.md'
